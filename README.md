@@ -18,4 +18,4 @@ I am planning to expand MedCare with the following advanced features:
 
 ## 🛠 Why This Project?
 The primary goal of this project was to solve real-world healthcare management challenges using the **Django MVT (Model-View-Template) architecture**. By combining Python's powerful backend logic with a dynamic JS-powered frontend, I've created a scalable solution that can handle growing medical data.
-http://127.0.0.1:8000/
+
